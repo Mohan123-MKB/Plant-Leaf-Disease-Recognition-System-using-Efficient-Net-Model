@@ -1,0 +1,8 @@
+__pycache__/
+*.h5
+*.onnx
+*.pth
+.DS_Store
+*.zip
+*.tar.gz
+*.ipynb_checkpoints
